@@ -32,3 +32,18 @@ This showing that jira is link with github through this branch
 Updated Documentation 
 ![image](https://user-images.githubusercontent.com/100334614/211241188-98f54bba-303c-4aed-9aed-d4c2c2fa7ba0.png)
 ![image](https://user-images.githubusercontent.com/100334614/211241194-43c109e6-e050-4e9b-972e-3463ee86c26b.png)
+
+
+Assignment 4 
+Submit the progress report of the project based on the Sprint information extracted from Github, Jira and Test report using supporting tools available in Github Repository.
+Apply at least one test using Junit or Unit testing Tool available in Eclipse or VS Code. 
+Check the 
+•	Statement Coverage
+•	Functional Coverage 
+•	Decision Coverage
+ ![image](https://user-images.githubusercontent.com/100334614/211242573-92dbec34-e0b6-4b0c-a491-5934c13dc1e7.png)
+
+Detail view of coverage:
+ ![image](https://user-images.githubusercontent.com/100334614/211242585-0b6ad211-d8e9-42eb-8e4f-81a721a44c0a.png)
+
+
