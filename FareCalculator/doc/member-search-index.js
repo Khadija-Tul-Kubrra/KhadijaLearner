@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"FareCalculator","c":"FareCalculator","l":"FareCalculator()","u":"%3Cinit%3E()"},{"p":"FareCalculator","c":"FareCalculator","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
